@@ -1,12 +1,12 @@
 Week 1:
 ======
 Touch base with them daily, at least.  If you don’t hear from them, check in-- better to do that early and get them unstuck then leave them.
-### Day 1 and 2 ### 
+### Day 1 and 2
 * Buddy up with last person to get dev env up and running. Introduce mentor, make it clear it’s totally OK to ask all kinds of questions.
 * New engineer updates dev environment documentation if it’s out of date or confusing.(They feel like they’re contributing, and your documentation is better as a result!)
 * Any technical tools or frameworks they need to know but don’t, yet, hand them the right books/material to get them started.  (Technical Material)
 
-### Day 3-5 ### 
+### Day 3-5
 * Get them started on blogging/journaling-for themselves and for you: 3 things per day or week that they didn’t understand, three new things they’ve learned, etc.  You can take a look at it together, or have them email it to you, so you’re aware of what they’re thinking about.
 * It’s helpful for a new developer to keep a “Things I’ve learned” file somewhere, for reference later- this can keep information such as what directory one should be in when running certain sporadically-used commands, and to remind them later of details they may forget.
 * Ideally have them ship something small to learn the process for shipping and releasing code (can just be config files or a really small one line change).
